@@ -1,5 +1,5 @@
 function sayHi(name) {
-  return `Hello there ${name}`
+  return `Hello ${name}`
 }
 // Module saying hi to the user
 function sayHi(name) {
